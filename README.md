@@ -10,4 +10,4 @@ cd discordpy_notify
 ```
 pip install discord.py
 ```
-You can then enter your bot credentials and start using it.
+Lastly, create a .env file and enter your bot credentials so you can start using it.
